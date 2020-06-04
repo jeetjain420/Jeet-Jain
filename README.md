@@ -9,3 +9,16 @@ Churn rate is the percentage of subscribers to a service that discontinue their 
 #### Radar Charts for Churn and Non Churn Customers 
 ![](https://github.com/jeetjain420/Jeet-Jain/blob/master/images/1.PNG?raw=true)
 ![](https://github.com/jeetjain420/Jeet-Jain/blob/master/images/2.PNG?raw=true)
+
+### [Project 3: Chronic Kidney Disease Prediction](https://github.com/jeetjain420/chronickidneydiseaseprediction)
+Chronic Kidney Disease means that your kidneys are damaged and cannot filter the waste out of the urine efficiently. Machine Learning algorithms are used to train on the dataset which consists of blood and urine reports of a patient. The algorithms give the output of the risk of developing Chronic Kidney Disease in terms of 0 or 1. The early diagnosis of this disease is extremely important because the symptoms are only visible when the disease has developed into a lethal stage. Deployed the model into a [Web Application](http://ckd.pythonanywhere.com/). 
+#### Using of xAI libraries to understand the performance of the models:
+
+#### Feature Importance
+![](https://github.com/jeetjain420/Jeet-Jain/blob/master/images/3.PNG?raw=true)
+
+#### Weightage of attributes that the model assigns to predict a single instance
+![](https://github.com/jeetjain420/Jeet-Jain/blob/master/images/4.PNG?raw=true)
+
+#### Attribute Impact on Model Output
+![](https://github.com/jeetjain420/Jeet-Jain/blob/master/images/5.PNG?raw=true)
